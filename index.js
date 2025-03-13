@@ -1,5 +1,4 @@
 // Write your solution in this file!
-
 var customerName = "bob";
 const leastFavoriteCustomer = "She Hulk";
 
@@ -16,5 +15,5 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  return (leastFavoriteCustomer = "Captain Marvel");
+  return (leastFavoriteCustomer = "Kasongo");
 }
